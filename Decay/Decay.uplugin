@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Decay",
+	"Description": "System for handling the eventual destruction of inactive Actors, such as corpses and bullet impacts.",
+	"Category": "Gameplay",
+	"CreatedBy": "dynamiquel",
+	"CreatedByURL": "https://github.com/dynamiquel/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Decay",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
