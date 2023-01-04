@@ -28,3 +28,7 @@ Instead of destroying an Actor or ActorComponent when it enters an inactive stat
 
 ### 3. And more
 That's all you need to know to use Decay. For anything else, such as disabling Decay Instances or manually destroying objects, feel free to read the documentation within the code. 
+
+
+## Notes
+**A paid version of Decay without an MIT licence is available on the Unreal Marketplace with newer features.**
