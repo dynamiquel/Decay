@@ -1,4 +1,6 @@
 # Decay
+![image](https://user-images.githubusercontent.com/50085636/210577049-ab7cb85f-2273-42d7-92b0-d6078b5de340.png)
+
 Unreal Engine system for handling the eventual destruction of inactive Actors and ActorComponents, such as corpses and bullet impacts. Forked from an early build of [Abstruse](https://vixentail.com/abstruse).
 
 **C++ and Blueprint**
